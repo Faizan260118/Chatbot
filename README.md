@@ -11,4 +11,4 @@
 - ✅ Smooth scrolling and dynamic UI updates
 
 #### Preview Chatbot
-Gemini Chatbot[Click](https://geminiapichatbot.netlify.app/ "chatbot")
+Gemini Chatbot [Click](https://geminiapichatbot.netlify.app/ "chatbot")
