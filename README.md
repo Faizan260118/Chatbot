@@ -9,6 +9,3 @@
 - ✅ Displays loading indicator while awaiting API response
 - ✅ Emoji picker for enhanced message customization
 - ✅ Smooth scrolling and dynamic UI updates
-
-#### Preview Chatbot
-Gemini Chatbot [Click](https://geminiapichatbot.netlify.app/ "chatbot")
